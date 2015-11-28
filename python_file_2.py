@@ -1,1 +1,1 @@
-print ("F*ck the millenium")
+print ("F*ck bloody hell  millenium")
